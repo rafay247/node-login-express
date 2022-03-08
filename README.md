@@ -23,13 +23,9 @@ Define the schema
 
 ## Project setup 
 ```bash
-npm init
+npm install
 ```
 ## Run project
 ```bash
 node app.js
-```
-## Download packages
-```bash
-npm install [name] --save
 ```
